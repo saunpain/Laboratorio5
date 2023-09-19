@@ -1,1 +1,45 @@
-* {font-family:'Roboto';}
+* {font-family:'Verdana';}
+
+
+header{
+    background-color: #4D7EBC;
+    padding: 1px;
+    height: 375px;
+}
+
+header h1{
+    color:white;
+    font-size: 100px;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+    left: 120px;
+}
+
+header img{
+    width: 250px;
+    height: auto;
+    border: 10px solid white;
+
+    position: relative;
+    bottom: 420px;
+    left: 30px;
+}
+
+.contenedor{
+    display: flex;
+    color: #4D7EBC;
+}
+
+.columna{
+    flex: 1;
+    padding: 10px;
+}
+
+#columna1{
+    flex: 0 0 530px;
+}
+
+#columna1.columna p{
+    text-align: justify;
+}
