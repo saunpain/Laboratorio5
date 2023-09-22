@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+    background-color: #007BFF;
+    color: #fff;
+   
+}
+
+hr {
+    border: 1px solid #007BFF;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #007BFF;
+}
+
+p {
+    margin-left: 20px;
+}
+
+li {
+    list-style-type: square;
+    margin-bottom: 10px;
+}
