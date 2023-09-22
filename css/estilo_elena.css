@@ -1,0 +1,97 @@
+body {
+    background-color: #FDF5E6;
+    }
+    
+    header {
+    text-align: center;
+    }
+    
+    header h1 {
+    font-family: 'Redressed', cursive;
+    color: #F9DB24;
+    font-size: 40px;
+    }
+    
+    header h2 {
+    font-family: 'Redressed', cursive;
+    color: #F9DB24;
+    font-size: 33px;
+    }
+    
+    header h3 {
+    font-family: 'Redressed', cursive;
+    color: #F9DB24;
+    font-size: 28px;
+    }
+
+    h2 {
+    font-family: Verdana;
+    color: #CC6600
+    }
+
+    h4 {
+    font-family: Verdana;
+    }
+
+    .datos {
+    font-family: Verdana;
+    }
+
+    .educacion {
+    font-family:Verdana; 
+    word-spacing: 3px; 
+    line-height: 30px;
+    }
+    
+    hr {
+        border: 3px solid #DEB887; 
+        margin-top: 20px;
+    }
+
+    .cuadro {
+    width:250px;
+    height:250px;
+    border: 7px solid white;
+    border-radius: 50%;
+    overflow: hidden;
+    }
+
+    img {
+    width:250px;
+    height:250px;
+    }
+
+    .knowledge {
+    font-family: Verdana;
+    font-weight: bold;
+    color: #E8A317;
+    }
+    
+    .date {
+    font-family: Verdana;    
+    background-color: #FFDDCA;
+    padding: 5px;
+    border: solid #FFDDCA;
+    }
+
+    li{
+    font-family: Verdana; 
+    margin-bottom: 10px;
+    }
+
+    button {
+    font-family: Verdana;
+    font-size: 15px;
+    padding: 10px 20px;
+    background-color: #FFCBA4;
+    border: none;
+    border-radius: 5px;
+    margin-left: 30px;
+    }
+
+    a{
+    text-decoration: none; 
+    color: white;
+    }
+
+     
